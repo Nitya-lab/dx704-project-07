@@ -1,0 +1,11 @@
+
+Acknowledgments
+
+People I discussed the assignment with:
+none
+
+Extra libraries used (beyond the course content):
+none
+
+Use of generative AI:
+none
